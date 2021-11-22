@@ -24,7 +24,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkancagman&show_icons=true&theme=synthwave)
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frontendkiller&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkancagman&layout=compact&langs_count=8&theme=tokyonight"/>
 
 
 
