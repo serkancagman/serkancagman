@@ -1,5 +1,5 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47oo1ttefvnfeazw60haw57nktbp6xke5b4wd0vaeg&rid=giphy.gif&ct=g"  width="500" height="270" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47oo1ttefvnfeazw60haw57nktbp6xke5b4wd0vaeg&rid=giphy.gif&ct=g"  width="400" height="215" />
 
 ## I'm Serkan Çağman a Front End Developer in Istanbul 🇹🇷 🇲🇩
 
