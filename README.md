@@ -1,6 +1,7 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47oo1ttefvnfeazw60haw57nktbp6xke5b4wd0vaeg&rid=giphy.gif&ct=g"  width="500" height="270" />
 
-## I'm Serkan Çağman a Front End Developer in Turkey
+## I'm Serkan Çağman a Front End Developer in Istanbul 🇹🇷 🇲🇩
 
 
 - 🌱 I’m currently learning <code>React</code>
@@ -15,17 +16,19 @@
  ## Top Technologies
  
 <p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://i.hizliresim.com/2buzql9.png" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="react" width="40" height="40"/>
+
+
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkancagman&show_icons=true&theme=synthwave)
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkancagman&layout=compact&langs_count=8&theme=tokyonight"/>
+<img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serkancagman&layout=compact&langs_count=8&theme=tokyonight"/>
 
 
 
