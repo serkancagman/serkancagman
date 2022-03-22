@@ -10,9 +10,11 @@
 ### I'm Serkan Çağman a Jr. Front End Developer in Istanbul 🇹🇷 🇲🇩
 
 
- <p> 💻 With the trainings I received from the Patika.dev platform, I develop myself in the field of frontend.</p>
+ <p> 💻   I am a self-taught developer with a background. I have with a passion for creating beautiful and functional websites.
+ <br/> <br/>
+ 💪 I have a strong passion for learning new technologies and I am always looking for new opportunities to learn and grow.</p>
 
-## Contact me 
+## 📫 Contact me 
 <p align="center">
 <br>
 <a href="https://serkancagman.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>&nbsp;
