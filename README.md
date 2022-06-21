@@ -3,7 +3,7 @@
 
 <p align="center"> Visitor Counter 🕵🏼</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{serkancagman}/count.svg" alt="Visitor's Count" /></p>
- <img align="right" width="400px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
+ <img align="right" width="300px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
 
 ## Hey 
 
