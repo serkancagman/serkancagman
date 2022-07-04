@@ -7,7 +7,7 @@
 
 ## Hey 
 
-### I'm Serkan Çağman a Jr. Front End Developer in Istanbul 🇹🇷 🇲🇩
+### I'm Serkan Çağman a Front End Developer in Istanbul 🇹🇷 🇲🇩
 
 
  <p> 💻   I am a self-taught developer with a background. I have with a passion for creating beautiful and functional websites.
